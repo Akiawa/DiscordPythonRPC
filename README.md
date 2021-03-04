@@ -1,6 +1,6 @@
 # DiscordPythonRPC
 My Discord Python RPC
-with button, be sure to install Python correctly with pip
+with button, be sure to install Python correctly with pip and PATH.
 
 Open CMD and do install `pip install pypresence`
 
